@@ -11,7 +11,8 @@ import SwiftUI
 struct HMTradingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          LoadingApp()
         }
     }
 }
+
